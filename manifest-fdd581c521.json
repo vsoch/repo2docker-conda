@@ -4,7 +4,9 @@
         "RepoTags": [
             "vanessa/repo2docker-conda:fdd581c521"
         ],
-        "RepoDigests": [],
+        "RepoDigests": [
+            "vanessa/repo2docker-conda@sha256:0c530a7aa60d3f78a83c609edf9b3f8d05a3b52d1d27343b36a6565a5177e7a9"
+        ],
         "Parent": "",
         "Comment": "",
         "Created": "2018-08-10T10:38:35.401625129Z",
